@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 863ea3b4f8ebdda46b22d0f50110d1f5
+guid: b578e5b24dea8b94eb8132631214787b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -116,106 +116,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: button_green
+      name: train_wagon_wood_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 166
-        width: 64
-        height: 84
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 16, y: 12, z: 16, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a356f594708da794a8aec08b5767d3c7
-      internalID: 764733386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: button_yellow
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 166
-        width: 64
-        height: 84
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 16, y: 12, z: 16, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a1173de71ddb9864590c57bcca586854
-      internalID: 812007078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: button_brown
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 166
-        width: 64
-        height: 84
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 16, y: 12, z: 16, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9cc7b9e8cc0d2a478abee8793ebcad2
-      internalID: 891544709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: button_nav_0
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 69
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 0
+        y: 8
+        width: 128
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 340595cf9cf8b19458e1ff6b80130458
-      internalID: 993371455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: button_nav_1
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 69
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34b6f88aaae7a434e88654b9db48ba99
-      internalID: 1548653958
+      spriteID: f611ca92a95cf854ab4de2123f1c9a25
+      internalID: 834971808
       vertices: []
       indices: 
       edges: []
@@ -231,11 +147,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      button_nav_1: 1548653958
-      button_brown: 891544709
-      button_green: 764733386
-      button_nav_0: 993371455
-      button_yellow: 812007078
+      train_wagon_wood_0: 834971808
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
