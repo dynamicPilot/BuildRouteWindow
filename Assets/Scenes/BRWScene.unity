@@ -277,7 +277,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 1
+  m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -10559,7 +10559,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7183650431974436175, guid: 943de4c57ac814443b90e65ccc529bcd, type: 3}
       propertyPath: m_text
-      value: "\u0413\u0420\u0423\u0417\u041E\u041F\u041E\u0414\u042C\u0415\u041C\u041D\u041E\u0421\u0422\u042C"
+      value: "\u0413\u0420\u0423\u0417\u041E\u041F\u041E\u0414\u042A\u0415\u041C\u041D\u041E\u0421\u0422\u042C"
       objectReference: {fileID: 0}
     - target: {fileID: 7816472549802316385, guid: 943de4c57ac814443b90e65ccc529bcd, type: 3}
       propertyPath: m_text
